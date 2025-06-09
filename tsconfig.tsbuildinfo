@@ -1,0 +1,1 @@
+{"root":["./src/server.ts","./src/vite-env.d.ts","./src/routes/verify-recaptcha.ts","./src/types/calculator.ts","./src/utils/breeds.ts","./src/utils/calculator.ts"],"errors":true,"version":"5.6.3"}
